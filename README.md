@@ -1,21 +1,24 @@
-# React-Redux-Saga-Antd Skeleton 
+# React-Redux-Saga-Antd Skeleton
+
 Tech stack:
-``` shell
 React.js, Redux.js, Redux-Saga.js, Antd.js
-```
 
 Installation dependencies:
-``` shell
+
+```shell
 $ npm i
 ```
 
 For starting webpack development server:
-``` shell
+
+```shell
 $ npm start
 ```
+
 Webpack server will be available at localhost:8000
 
 For running client-side build:
-``` shell
+
+```shell
 $ npm run build
 ```
